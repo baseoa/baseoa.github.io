@@ -35,8 +35,8 @@
 	</tbody>
 </table>
 
-</hr>
+<hr />
 <p><span style="font-family:Arial,Helvetica,sans-serif"><a href="mailto:baseoa.help@html-forum.ga?subject=%D0%A2%D0%B5%D1%85%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20(%D1%81%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0)" target="_blank">✉️</a> <a href="mailto:baseoa.help@html-forum.ga?subject=%D0%A2%D0%B5%D1%85%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20(%D1%81%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0)" target="_blank">Написать в техподдержку (на Email)</a>&nbsp;</span></p>
 
-</hr>
+<hr />
 <p><span style="font-family:Arial,Helvetica,sans-serif">Copyright &copy; BaseOA, 2021.</span></p>

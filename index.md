@@ -29,7 +29,7 @@
 			<td>
 			<p><span style="font-family:Arial,Helvetica,sans-serif">5600₽ /в месяц</span></p>
 
-			<p><span style="font-family:Arial,Helvetica,sans-serif"><a href="https://tele.click/baseoavip" target="_self">💰</a> К<a href="https://tele.click/baseoavip" target="_self">упить</a></span></p>
+			<p><span style="font-family:Arial,Helvetica,sans-serif"><a href="https://tele.click/baseoavip" target="_self">💰</a> <a href="https://tele.click/baseoavip" target="_self">Купить</a></span></p>
 			</td>
 		</tr>
 	</tbody>
